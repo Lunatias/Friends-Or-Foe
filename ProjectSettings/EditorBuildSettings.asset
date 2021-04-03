@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Park.unity
+    guid: e5edfd7f88e4541ec87371429609b73d
+  - enabled: 1
+    path: Assets/Scenes/AnimalScene1.unity
+    guid: 794f8c3eabe174e408282919dfbc037c
+  - enabled: 1
+    path: Assets/Scenes/AnimalScene2.unity
+    guid: e6c076a438e7e4e9fa66d0fcd79b866a
+  - enabled: 1
+    path: Assets/Scenes/GoodEnd.unity
+    guid: c9c64f24bc708469b89c9283985c68ee
+  - enabled: 1
+    path: Assets/Scenes/BadEnd.unity
+    guid: 611800f7a48d44079b19bc080632ee44
   m_configObjects: {}
